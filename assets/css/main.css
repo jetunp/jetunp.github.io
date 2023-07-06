@@ -1507,16 +1507,17 @@ input, select, textarea {
 		margin: 20px 10px;
 		box-shadow: 0 3px 5px rgba(0,0,0,0.6);
 		padding: 15px 20px;
+		text-align: center;
+		
 	}
 
+	.blocks h3,
+	.blocks h4,
+	.blocks h5 {
+		margin: 0;
+	}
 /* Work-Experience */
 
-		.work-experience h3,
-		.work-experience h4,
-		.work-experience h5{
-			margin-bottom: 0;
-			text-align: center;
-		}
 
 		  .flex-container {
 			display: flex;
