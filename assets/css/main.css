@@ -1498,6 +1498,53 @@ input, select, textarea {
 
 		}
 
+/* About */
+		.about-info{
+			flex: 1;
+			background-color: rgba(181, 0, 247, 0.073);
+			color: #fff;
+			border-radius: 10px;
+			margin: 20px 10px;
+			box-shadow: 0 3px 5px rgba(0,0,0,0.6);
+			padding: 15px 20px;
+		}
+
+/* Work-Experience */
+
+		.work-experience {
+			flex: 1;
+			background-color: rgba(181, 0, 247, 0.073);
+			color: #fff;
+			border-radius: 10px;
+			margin: 20px 10px;
+			box-shadow: 0 3px 5px rgba(0,0,0,0.6);
+			padding: 15px 20px;
+		}
+
+		.work-experience h3,
+		.work-experience h4,
+		.work-experience h5{
+			margin-bottom: 0;
+			text-align: center;
+		}
+
+		  .flex-container {
+			display: flex;
+			flex-wrap: wrap;
+			margin-bottom: 15px;
+		}
+		.item {
+			flex-basis: 50px;
+			height: 50px;
+			margin: 3px;
+			padding: 10px;
+			background: rgb(246, 131, 99);
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			border-radius: 10px;
+		}
+		  
 /* Main */
 
 	#main {
@@ -1546,6 +1593,7 @@ input, select, textarea {
 			background-color: rgba(27, 31, 34, 0.85);
 			border-radius: 4px;
 			opacity: 0;
+
 		}
 
 			#main article.active {
