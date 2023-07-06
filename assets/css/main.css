@@ -1498,28 +1498,18 @@ input, select, textarea {
 
 		}
 
-/* About */
-		.about-info{
-			flex: 1;
-			background-color: rgba(181, 0, 247, 0.073);
-			color: #fff;
-			border-radius: 10px;
-			margin: 20px 10px;
-			box-shadow: 0 3px 5px rgba(0,0,0,0.6);
-			padding: 15px 20px;
-		}
+/* For all the blocks */
+	.blocks {
+		flex: 1;
+		background-color: rgba(181, 0, 247, 0.073);
+		color: #fff;
+		border-radius: 10px;
+		margin: 20px 10px;
+		box-shadow: 0 3px 5px rgba(0,0,0,0.6);
+		padding: 15px 20px;
+	}
 
 /* Work-Experience */
-
-		.work-experience {
-			flex: 1;
-			background-color: rgba(181, 0, 247, 0.073);
-			color: #fff;
-			border-radius: 10px;
-			margin: 20px 10px;
-			box-shadow: 0 3px 5px rgba(0,0,0,0.6);
-			padding: 15px 20px;
-		}
 
 		.work-experience h3,
 		.work-experience h4,
