@@ -1535,7 +1535,29 @@ input, select, textarea {
 			align-items: center;
 			border-radius: 10px;
 		}
-		  
+
+/* Resume Download Button */
+
+.btn {
+    background-color: #ffffff;
+    border-radius: 20px;
+    border: 0;
+    box-shadow: 0 0.5rem 1rem rgba(48,76,253,.15), 0 0.125rem 0.25rem rgba(48,76,253,.15);
+    color: #000000;
+    cursor: pointer;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: inherit;
+    overflow: hidden;
+    padding: 0.7rem 1.2rem;
+    position: relative;
+    transition: .4s ease-in-out;
+    white-space: nowrap;
+    z-index: 1;
+	margin-bottom: 80px;
+	
+}
+
 /* Main */
 
 	#main {
