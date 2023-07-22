@@ -1504,7 +1504,7 @@ input, select, textarea {
 		background-color: rgba(181, 0, 247, 0.073);
 		color: #fff;
 		border-radius: 10px;
-		margin: 20px 10px;
+		margin: 20px 20px;
 		box-shadow: 0 3px 5px rgba(0,0,0,0.6);
 		padding: 15px 20px;
 		text-align: center;
@@ -1512,7 +1512,7 @@ input, select, textarea {
 
 	.blocks h4{
 		margin: 0;
-		text-align: left;
+		text-align: center;
 	}
 
 	.blocks ul {
@@ -1522,7 +1522,9 @@ input, select, textarea {
 	.blocks h3,
 	.blocks h5 {
 		margin: 0;
+		
 	}
+	
 /* Work-Experience */
 
 
