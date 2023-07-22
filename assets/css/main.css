@@ -1508,11 +1508,18 @@ input, select, textarea {
 		box-shadow: 0 3px 5px rgba(0,0,0,0.6);
 		padding: 15px 20px;
 		text-align: center;
-		
+	}
+
+	.blocks h4{
+		margin: 0;
+		text-align: left;
+	}
+
+	.blocks ul {
+		text-align: left;
 	}
 
 	.blocks h3,
-	.blocks h4,
 	.blocks h5 {
 		margin: 0;
 	}
@@ -1557,6 +1564,15 @@ input, select, textarea {
 	margin-bottom: 80px;
 	
 }
+
+/* Achievements */
+.title-icon {
+    margin-right: 0.5rem;
+    margin-top: -0.25rem;
+    height: 4.5rem;
+    width: 4.5rem;
+}
+
 
 /* Main */
 
