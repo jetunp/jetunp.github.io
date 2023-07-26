@@ -1508,9 +1508,8 @@ input, select, textarea {
 		box-shadow: 0 3px 5px rgba(0,0,0,0.6);
 		padding: 15px 20px;
 		text-align: center;
-		width: 100%;
-		max-width: 100%;
-		overflow: hidden;
+		
+		
 	}
 
 	.blocks h4{
